@@ -59,7 +59,7 @@ Stay informed about the weather with our React.js Weather App! The app utilizes 
 
    To use this Weather App, you'll need to obtain an API key from OpenWeatherMap. Follow these steps:
 
-   a. Visit [OpenWeatherMap]([https://www.omdbapi.com/apikey.aspx](https://home.openweathermap.org/)).
+   a. Visit [OpenWeatherMap](https://home.openweathermap.org/).
 
    b. Sign up for a free account or log in if you already have one.
 
@@ -84,3 +84,9 @@ Stay informed about the weather with our React.js Weather App! The app utilizes 
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the weather app website in action.
 
 5. Now you're ready to explore the Weather App and access up-to-date weather information by searching for a location, and viewing weather details.
+
+
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
